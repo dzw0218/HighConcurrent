@@ -1,11 +1,13 @@
 <<<<<<< HEAD
 concreateserver/
-server_select/*.o
-server_select/server
-server_epoll/*.o
-server_epoll/server
-client/*.o
-client/client
+server_select\*.o
+server_select\server
+server_epoll\*.o
+server_epoll\server
+client\*.o
+client\client
+*\*.out
+*\tags
 
 =======
 # Prerequisites
